@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-<h2>Skills : </h2>
+<h2>tech stack : </h2>
 <img src="https://skillicons.dev/icons?i=html,css,mui," />
 <img src="https://skillicons.dev/icons?i=js,ts,react,electron,nodejs,nextjs,redis,regex,flutter,django,threejs,php" />
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,graphql,apollo,sqlite" />
