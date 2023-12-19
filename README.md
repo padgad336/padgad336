@@ -1,12 +1,21 @@
 ### Hi there 👋
 
-### Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padgad336&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2>Stats : </h2>
+<div style='display:flex' >
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=padgad336&number_format=long&show_icons=true&line_height=25&rank_icon=github&title_color=00B81C&text_color=f2f2f2&icon_color=00B81C&bg_color=272727" alt="padgad336" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=padgad336&show_icons=true&locale=en&title_color=00B81C&text_color=f2f2f2&theme=dark&layout=compact" alt="padgad336" />
+</div>
+<br/>
 
-### Stats
-![Padgad336's GitHub stats](https://github-readme-stats.vercel.app/api?username=padgad336&show_icons=true&bg_color=00000000)
+<h2>Skills : </h2>
+<img src="https://skillicons.dev/icons?i=html,css,mui," />
+<img src="https://skillicons.dev/icons?i=js,ts,react,electron,nodejs,nextjs,redis,regex,flutter,django,threejs,php" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,graphql,apollo,sqlite" />
+<img src="https://skillicons.dev/icons?i=py,git,github,gitlab,vscode,linux,postman,babel,docker" />
 
+<br/>
 
 <!--
 **padgad336/padgad336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
