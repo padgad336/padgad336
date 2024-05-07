@@ -54,10 +54,10 @@
 
         @media (prefers-color-scheme: light) {
           .container {
-            --color-main: #F55353;
-            --color-primary: #03AED2;
-            --color-secondary: #FEB139;
-            --color-tertiary: #F6F54D;
+           --color-main: #06283D;
+          --color-primary: #1363DF;
+          --color-secondary: #F55353;
+          --color-tertiary: #FEB139;
           }
         }
 
